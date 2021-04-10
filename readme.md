@@ -26,3 +26,22 @@ WebsiteUrl: `http://localhost:8080/login/view/login.jsp`
 2. Run the web code
 `cd ..\login`  <br>
 `mvn jetty:run` in CMD terminal
+
+# Image References
+
+## SQL Server Credentials
+[![](https://github.com/ericcleee/CZ3002-Assignment-Login/blob/master/img/SQL-credential.jpg)](https://github.com/ericcleee/CZ3002-Assignment-Login/blob/master/img/SQL-credential.jpg)
+
+
+## Default Login Page
+[![](https://github.com/ericcleee/CZ3002-Assignment-Login/blob/master/img/default-login.jpg)](https://github.com/ericcleee/CZ3002-Assignment-Login/blob/master/img/default-login.jpg)
+
+## Successful Login
+[![](
+https://github.com/ericcleee/CZ3002-Assignment-Login/blob/master/img/successful-login.jpg)](
+https://github.com/ericcleee/CZ3002-Assignment-Login/blob/master/img/successful-login.jpg)
+
+## Unsuccessful Login
+[![](
+https://github.com/ericcleee/CZ3002-Assignment-Login/blob/master/img/unsuccessful-login.jpg)](
+https://github.com/ericcleee/CZ3002-Assignment-Login/blob/master/img/unsuccessful-login.jpg)
